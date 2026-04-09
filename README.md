@@ -73,7 +73,7 @@ Implements honeyuser (decoy account) technique to identify unauthorized login at
 </p>
 
 <p>
-<a href="https://github.com/yourusername/honeyuser-login">🔗 View Project</a>
+<a href="https://github.com/Point-ww3/Honeyuser-Login-System/blob/main/README.md">🔗 View Project</a>
 </p>
 
 </td>
