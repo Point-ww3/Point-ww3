@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill | |
 |-------|-------------------|
-| SIEM Basics & Log Analysis |
+| SIEM Basics & Log Analysis 
 | Vulnerability Assessment (Beginner) |
 | Basic Penetration Testing Concepts | 
 | API Hacking Junior (CAPIJ) |
@@ -48,12 +48,34 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-### 🔍 AI-Driven Credit Card Fraud Detection
-Detects fraudulent transactions using behavioral analysis and anomaly detection.  
-🔗 [View Project](https://github.com)
+<table>
+<tr>
+<td width="50%">
 
----
+<h3>🔍 AI-Driven Credit Card Fraud Detection</h3>
 
-### 🔐 Honeyuser Login System
-Implements honeyuser (decoy account) technique to identify unauthorized login attempts.  
-🔗 [View Project](https://github.com)
+<p>
+Detects fraudulent transactions using behavioral analysis and anomaly detection.
+</p>
+
+<p>
+<a href="https://github.com/yourusername/fraud-detection">🔗 View Project</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>🔐 Honeyuser Login System</h3>
+
+<p>
+Implements honeyuser (decoy account) technique to identify unauthorized login attempts.
+</p>
+
+<p>
+<a href="https://github.com/yourusername/honeyuser-login">🔗 View Project</a>
+</p>
+
+</td>
+</tr>
+</table>
