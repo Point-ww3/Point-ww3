@@ -7,7 +7,7 @@ I am a recent graduate with BSc Cyber Forensics graduate with a strong foundatio
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cyber Security Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cybersecurity Specialist.
 
 ## Skills
 
