@@ -58,7 +58,7 @@ Detects fraudulent transactions using behavioral analysis and anomaly detection.
 </p>
 
 <p>
-<a href="https://github.com/yourusername/fraud-detection">🔗 View Project</a>
+<a href="https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/blob/main/README.md">🔗 View Project</a>
 </p>
 
 </td>
