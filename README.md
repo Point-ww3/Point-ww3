@@ -49,6 +49,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### my-programs
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 ## Certifications
