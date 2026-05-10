@@ -1,7 +1,6 @@
 # Hello, I'm ARJUN
 <a href="https://www.linkedin.com/in/arjun-santhosh-11832b399/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I am a recent graduate with BSc Cyber Forensics graduate with a strong foundation in both offensive and defensive cybersecurity.Skilled in identifying vulnerabilities through penetration testing and strengthening security through monitoring, detection, and incident response. I think like an attacker, operate with precision, and report with clarity — delivering actionable intelligence that strengthens organizational resilience.
 
@@ -33,6 +32,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Vulnerability_Assessment-EF3B2D?&style=for-the-badge&logo=OWASP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Penetration_Testing-000000?&style=for-the-badge&logo=HackTheBox&logoColor=green" />
     <img src="https://img.shields.io/badge/-API_Hacking_(CAPIJ)-FF4081?&style=for-the-badge&logo=Postman&logoColor=white" />
+</div>
+
+### my-programs
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </div>
 
 ## Certifications
