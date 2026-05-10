@@ -11,11 +11,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 
 | Skill | |
-|-------|-------------------|
+|---------|-----------------
+|Cybersecurity Foundational|
 | SIEM Basics & Log Analysis 
-| Vulnerability Assessment (Beginner) |
-| Basic Penetration Testing Concepts | 
+| Vulnerability Assessment  |
+| Penetration Testing Concepts | 
 | API Hacking Junior (CAPIJ) |
+| A practical introduction to cloud computing |
+| Python |
+| AI-Generative Mdodel|
 
 ## Tools
 
@@ -34,7 +38,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-API_Hacking_(CAPIJ)-FF4081?&style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-### ; my-programs
+### ☁️ Cloud Team
+</div>
+
+<div>
+ <img src="https://img.shields.io/badge/A%20practical%20introduction%20to%20cloud%20computing-4A90E2?style=for-the-badge&logo=icloud&logoColor=white" />
+</div>
+</div>
+
+### my-programs
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </div>
