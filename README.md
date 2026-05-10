@@ -34,7 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-API_Hacking_(CAPIJ)-FF4081?&style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-### my-programs
+### ; my-programs
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </div>
