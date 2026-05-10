@@ -60,7 +60,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-API_Hacking_CAPIJ_-4D4D4D?&style=for-the-badge&logo=Postman&logoColor=white" />
     <img src="https://img.shields.io/badge/-Deloitte_Cybersecurity_Simulation-86BC25?&style=for-the-badge&logo=deloitte&logoColor=white" />
     <img src="https://img.shields.io/badge/-NxtWave_Generative_AI_Workshop-FF6F00?&style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python%20for%20Absolute%20Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python%20for%20Absolute%20Beginner-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD43B" />
+    <img src="https://img.shields.io/badge/A%20practical%20introduction%20to%20cloud%20computing-3776AB?style=for-the-badge&logo=icloud&logoColor=white" />
 </div>
 
 ## Projects
